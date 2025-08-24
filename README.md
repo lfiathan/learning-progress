@@ -3,7 +3,10 @@
 this is where i done reset --hard  
 and this is where i done push --force  
 and this line is from another branch  
+
+this will get conflict
 the conflict is settled
+
 
 # Pengalaman Belajar di Dicoding
 
