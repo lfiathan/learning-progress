@@ -1,7 +1,7 @@
 # learning-progress
 
 this is where i done reset --hard  
-and this is where i done push --force
+and this is where i done push --force  
 and this line is from another branch
   
 # Pengalaman Belajar di Dicoding
