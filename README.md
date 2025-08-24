@@ -24,5 +24,6 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 ##### HEADING LEVEL 5
 ###### HEADING LEVEL 6
 
-line break.  
-and another line break.
+line break using double space.  
+and another line break using tag br. <br>
+et voilaa
