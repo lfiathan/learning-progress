@@ -36,3 +36,8 @@ et voilaa
 
 + or this one?
 + maybe this one
+
+Hello **THERE**
+Hello *THERE*
+__HELLO__ There
+He**ll**o T**her**e
