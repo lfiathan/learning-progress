@@ -27,3 +27,12 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 line break using double space.  
 and another line break using tag br. <br>
 et voilaa
+
+- this is list
+- and this one too
+
+* we can use this too
+* and this too
+
++ or this one?
++ maybe this one
