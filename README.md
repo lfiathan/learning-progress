@@ -2,8 +2,10 @@
 
 this is where i done reset --hard  
 and this is where i done push --force  
-and this line is from another branch
-  
+and this line is from another branch  
+this will get conflict
+
+
 # Pengalaman Belajar di Dicoding
 
 **14 Juni 2021**<br>
